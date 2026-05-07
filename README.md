@@ -26,7 +26,6 @@ In this repository, I have solved multiple problems and organized them for easy 
 ## 🛠️ Technologies Used
 
 - C / C++ / Python
-- (Add more if you used: Python, Java, etc.)
 
 ---
 
